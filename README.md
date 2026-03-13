@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mina Ghaani
 
-<!--
-**minaghaani/minaghaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product leader with a background in tech startups (NYC and San Francisco), management consulting (big 4), product strategy, and systems design. I’m particularly interested in AI-enabled workflows, automation, growth loops, and how emerging tools reshape user behavior and software adoption.
 
-Here are some ideas to get you started:
+## What I’m exploring
+- AI-assisted workflow design
+- Lead qualification and routing systems
+- LLM-driven product discovery and acquisition
+- Automation infrastructure for service businesses
+- Knowledge and revenue platform strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- AI Real Estate Workflow Architecture
+- LLM Lead Qualification Concepts
+- Communication Optimization Assistant System Design 
+- Product Growth Experiment Ideas
+
+## Background
+- Product, strategy, and consulting leadership
+- Experience bringing digital products to production and scale
+- Interested in 0→1 product, growth, and AI-native workflows
