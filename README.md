@@ -16,6 +16,6 @@ I’m a product leader with a background in tech startups (NYC and San Francisco
 - Product Growth Experiment Ideas
 
 ## Background
-- Product, strategy, and consulting leadership
+- Product, strategy, and innovation leadership
 - Experience bringing digital products to production and scale
 - Interested in 0→1 product, growth, and AI-native workflows
